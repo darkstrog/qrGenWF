@@ -1,0 +1,12 @@
+C:\Users\Ergo\source\repos\qrgen\qrgen\bin\Debug\qrgen.exe.config
+C:\Users\Ergo\source\repos\qrgen\qrgen\bin\Debug\qrgen.exe
+C:\Users\Ergo\source\repos\qrgen\qrgen\bin\Debug\qrgen.pdb
+C:\Users\Ergo\source\repos\qrgen\qrgen\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.csprojAssemblyReference.cache
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.Form1.resources
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.Properties.Resources.resources
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.csproj.GenerateResource.cache
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.csproj.CoreCompileInputs.cache
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.csproj.CopyComplete
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.exe
+C:\Users\Ergo\source\repos\qrgen\qrgen\obj\Debug\qrgen.pdb
